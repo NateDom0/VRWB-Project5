@@ -226,6 +226,46 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1177771171}
     m_Modifications:
+    - target: {fileID: 1329549046119131851, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2033457032623652476, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2579380876829587344, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2755424530757999859, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 3305199310175298767, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 3383101714659341258, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5342640094308648615, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 6825522687059386926, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327552787327348241, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560288790624813052, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 8073851398900632676, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -278,9 +318,29 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8588419930574943579, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 8747905165498767793, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
       propertyPath: m_Name
       value: StageLight
+      objectReference: {fileID: 0}
+    - target: {fileID: 8747905165498767793, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8858793871053529818, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8861421684123133528, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8904294398404993516, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
@@ -296,6 +356,46 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1177771171}
     m_Modifications:
+    - target: {fileID: 1329549046119131851, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2033457032623652476, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2579380876829587344, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2755424530757999859, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 3305199310175298767, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 3383101714659341258, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5342640094308648615, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 6825522687059386926, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327552787327348241, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560288790624813052, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 8073851398900632676, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -348,9 +448,29 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8588419930574943579, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 8747905165498767793, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
       propertyPath: m_Name
       value: StageLight (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8747905165498767793, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8858793871053529818, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8861421684123133528, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8904294398404993516, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
@@ -485,6 +605,8 @@ Transform:
   - {fileID: 935020943}
   - {fileID: 40892885}
   - {fileID: 530756968552360965}
+  - {fileID: 1177771171}
+  - {fileID: 1665372228}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -495,6 +617,46 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1177771171}
     m_Modifications:
+    - target: {fileID: 1329549046119131851, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2033457032623652476, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2579380876829587344, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2755424530757999859, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 3305199310175298767, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 3383101714659341258, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5342640094308648615, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 6825522687059386926, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327552787327348241, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560288790624813052, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 8073851398900632676, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -547,9 +709,29 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8588419930574943579, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 8747905165498767793, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
       propertyPath: m_Name
       value: StageLight (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8747905165498767793, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8858793871053529818, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8861421684123133528, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8904294398404993516, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
@@ -769,7 +951,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1177771171}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: AddedStageLights
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -783,7 +965,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1177771170}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 2.3441327, y: 8.982338, z: -7.461199}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -791,8 +973,8 @@ Transform:
   - {fileID: 567820845}
   - {fileID: 1287553310}
   - {fileID: 923701819}
-  m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_Father: {fileID: 726801185}
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1287553309
 PrefabInstance:
@@ -801,6 +983,46 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1177771171}
     m_Modifications:
+    - target: {fileID: 1329549046119131851, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2033457032623652476, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2579380876829587344, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2755424530757999859, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 3305199310175298767, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 3383101714659341258, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5342640094308648615, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 6825522687059386926, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327552787327348241, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560288790624813052, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 8073851398900632676, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -853,9 +1075,29 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8588419930574943579, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 8747905165498767793, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
       propertyPath: m_Name
       value: StageLight (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8747905165498767793, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8858793871053529818, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8861421684123133528, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8904294398404993516, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b39788b87727db4a93e53ea91da7ea5, type: 3}
@@ -876,7 +1118,7 @@ GameObject:
   - component: {fileID: 1665372227}
   - component: {fileID: 1665372226}
   - component: {fileID: 1665372225}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Backstage-Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -953,12 +1195,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1665372224}
-  m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: 0.0378, y: 5.88, z: 0.65}
   m_LocalScale: {x: 1.7336, y: 1, z: 1.0632725}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_Father: {fileID: 726801185}
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!1001 &1749002078
 PrefabInstance:

@@ -1,0 +1,19 @@
+{
+    "uploadEntries": [
+        {
+            "AltspaceId": "2084006117947474019",
+            "Name": "ND_FirstTestKit",
+            "IsEnabled": true,
+            "UploadItems": [
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2084006117947474019_nd_firsttestkit/BlueTestSphere.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                }
+            ],
+            "PerPlatformAssets": false,
+            "HideContents": false
+        }
+    ]
+}
