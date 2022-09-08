@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2513482623703098808}
   - component: {fileID: 7956666986586007236}
   - component: {fileID: 6779885143803443363}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: lens_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -90,7 +90,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8224336217169430551}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: lens
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -121,7 +121,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3881260417134851410}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -154,7 +154,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7864295368740549015}
   - component: {fileID: 6917079547600645886}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Spot Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -248,7 +248,7 @@ GameObject:
   - component: {fileID: 6258521102850364293}
   - component: {fileID: 3240483195931433337}
   - component: {fileID: 7184033773540090830}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Cube_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -327,7 +327,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8558614783187875665}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: DoorLight-Baked
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -343,7 +343,7 @@ Transform:
   m_GameObject: {fileID: 9199893870723818116}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 2.31, y: 9.389, z: -8.99}
-  m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
+  m_LocalScale: {x: 0.20000002, y: 0.2, z: 0.20000002}
   m_Children:
   - {fileID: 3881260417134851410}
   - {fileID: 7864295368740549015}

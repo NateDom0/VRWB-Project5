@@ -545,33 +545,9 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 726801185}
     m_Modifications:
-    - target: {fileID: 1493464501170819582, guid: fe55a2d77480fa547a3a8214db992f17, type: 3}
-      propertyPath: m_Layer
-      value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 2375481532458002374, guid: fe55a2d77480fa547a3a8214db992f17, type: 3}
-      propertyPath: m_Layer
-      value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 6373573574486776091, guid: fe55a2d77480fa547a3a8214db992f17, type: 3}
-      propertyPath: m_Layer
-      value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 7968262471621350879, guid: fe55a2d77480fa547a3a8214db992f17, type: 3}
-      propertyPath: m_Layer
-      value: 14
-      objectReference: {fileID: 0}
     - target: {fileID: 8558614783187875665, guid: fe55a2d77480fa547a3a8214db992f17, type: 3}
       propertyPath: m_RootOrder
       value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 8558614783187875665, guid: fe55a2d77480fa547a3a8214db992f17, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.20000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 8558614783187875665, guid: fe55a2d77480fa547a3a8214db992f17, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.20000002
       objectReference: {fileID: 0}
     - target: {fileID: 8558614783187875665, guid: fe55a2d77480fa547a3a8214db992f17, type: 3}
       propertyPath: m_LocalPosition.x
@@ -613,17 +589,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9032025442021579481, guid: fe55a2d77480fa547a3a8214db992f17, type: 3}
-      propertyPath: m_Layer
-      value: 14
-      objectReference: {fileID: 0}
     - target: {fileID: 9199893870723818116, guid: fe55a2d77480fa547a3a8214db992f17, type: 3}
       propertyPath: m_Name
       value: DoorLight-Baked
-      objectReference: {fileID: 0}
-    - target: {fileID: 9199893870723818116, guid: fe55a2d77480fa547a3a8214db992f17, type: 3}
-      propertyPath: m_Layer
-      value: 14
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fe55a2d77480fa547a3a8214db992f17, type: 3}
@@ -1701,7 +1669,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 726801184}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 3.97, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 963194228}
