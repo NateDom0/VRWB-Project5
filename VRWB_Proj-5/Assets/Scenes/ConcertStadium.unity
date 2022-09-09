@@ -3946,30 +3946,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 726801185}
     m_Modifications:
-    - target: {fileID: 52671095659869131, guid: 90aadd373e88b3440886ef5c9a21d92e, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967294
-      objectReference: {fileID: 0}
-    - target: {fileID: 167822694388873753, guid: 90aadd373e88b3440886ef5c9a21d92e, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967294
-      objectReference: {fileID: 0}
-    - target: {fileID: 1883966299387105872, guid: 90aadd373e88b3440886ef5c9a21d92e, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967294
-      objectReference: {fileID: 0}
-    - target: {fileID: 2340250072361885771, guid: 90aadd373e88b3440886ef5c9a21d92e, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967294
-      objectReference: {fileID: 0}
-    - target: {fileID: 2739430895994277032, guid: 90aadd373e88b3440886ef5c9a21d92e, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967294
-      objectReference: {fileID: 0}
-    - target: {fileID: 3210349214506368092, guid: 90aadd373e88b3440886ef5c9a21d92e, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967294
-      objectReference: {fileID: 0}
     - target: {fileID: 3727308020528899624, guid: 90aadd373e88b3440886ef5c9a21d92e, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -4014,33 +3990,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5012384055315551038, guid: 90aadd373e88b3440886ef5c9a21d92e, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967294
-      objectReference: {fileID: 0}
-    - target: {fileID: 6619633997042568883, guid: 90aadd373e88b3440886ef5c9a21d92e, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967294
-      objectReference: {fileID: 0}
-    - target: {fileID: 6853458978497769826, guid: 90aadd373e88b3440886ef5c9a21d92e, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967294
-      objectReference: {fileID: 0}
-    - target: {fileID: 7489403450939652305, guid: 90aadd373e88b3440886ef5c9a21d92e, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967294
-      objectReference: {fileID: 0}
     - target: {fileID: 7991435352464893991, guid: 90aadd373e88b3440886ef5c9a21d92e, type: 3}
       propertyPath: m_Name
       value: Mod1-Theater-set
-      objectReference: {fileID: 0}
-    - target: {fileID: 8454455787111358738, guid: 90aadd373e88b3440886ef5c9a21d92e, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967294
-      objectReference: {fileID: 0}
-    - target: {fileID: 8889007335707105682, guid: 90aadd373e88b3440886ef5c9a21d92e, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967294
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 90aadd373e88b3440886ef5c9a21d92e, type: 3}
